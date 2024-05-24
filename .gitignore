@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 data/repo/output/*
+workflow_definition
